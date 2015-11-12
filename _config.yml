@@ -27,11 +27,11 @@ rss:
 # Remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  #categories: /categories
-  #about: /about
   archives: /archives
+  categories: /categories
   tags: /tags
-  #commonweal: /404.html
+  # commonweal: /404.html
+  about: /about
 
 
 # Enable/Disable menu icons.
@@ -57,7 +57,7 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 
@@ -92,7 +92,7 @@ social_icons:
 
 
 # Sidebar Avatar
-#avatar:
+avatar: /images/avatar.jpg
 
 
 # Social links
@@ -166,7 +166,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: coldog
 
 # Disqus
 #disqus_shortname:
