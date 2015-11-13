@@ -96,8 +96,9 @@ avatar: /images/avatar.jpg
 
 
 # Social links
-# social:
-  #GitHub:
+social:
+  GitHub: https://github.com/fan2/
+  Email: "mailto:challenge4fun@qq.com"
   #Others:
 
 
